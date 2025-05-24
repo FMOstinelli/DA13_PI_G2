@@ -8,7 +8,7 @@
 ------------
 
 ### Índice
-1. [Introducción](#🧾Introducción)
+1. [Introducción](#Introducción)
 2. [Consigna](#Objetivos)
 3. [Roles](#roles)
 4. [Equipo](#equipo)
