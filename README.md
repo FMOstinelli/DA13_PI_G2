@@ -15,7 +15,7 @@
 5. [Archivos](#archivos)
 6. [Areas](#areas)
 
-## 🧾 Introducción
+## Introducción 🧾
 
 Este proyecto se desarrolla en el contexto de una empresa de e-commerce especializada en la venta de bebidas, con operaciones en múltiples sucursales. La compañía enfrenta desafíos comunes en la gestión de inventarios, tales como:
 
