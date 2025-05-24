@@ -1,4 +1,4 @@
-# Proyecto Grupal N°2 - Henry    <img src="https://assets.soyhenry.com/LOGO-REDES-01_og.jpg" alt="Imagen" width="70">
+# Proyecto Integrador - Cohorte 13 - Grupo 2 - Henry    <img src="https://assets.soyhenry.com/LOGO-REDES-01_og.jpg" alt="Imagen" width="70">
 ## E-commerce - Inteligencia de Inventario: Del Análisis a la Acción
 
 <p align="center">
