@@ -8,4 +8,4 @@
 ------------
 
 ### Índice
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fthelogisticsworld.com%2Flogistica-comercio-electronico%2F10-tendencias-de-e-commerce-que-marcaran-el-segundo-semestre-de-2023%2F&psig=AOvVaw3ddiVW2sbjLkZifjKEAPeB&ust=1748209644557000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiDvc6KvY0DFQAAAAAdAAAAABAE
+
