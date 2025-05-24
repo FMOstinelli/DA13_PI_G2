@@ -9,7 +9,7 @@
 
 ### Índice
 1. [Introducción](#Introducción)
-2. [Consigna](#Objetivos)
+2. [Objetivos](#Objetivos)
 3. [Roles](#roles)
 4. [Equipo](#equipo)
 5. [Archivos](#archivos)
@@ -30,7 +30,7 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 
 ---
 
-## 🎯 Objetivos
+## 🎯Objetivos
 
 **Objetivo general:**
 
