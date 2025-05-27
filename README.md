@@ -46,3 +46,72 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 
 ---
 
+## 👥 Roles del Proyecto
+
+En este proyecto de análisis y optimización de inventarios mediante técnicas de ciencia de datos, cada rol cumple una función clave en el ciclo de vida del desarrollo. A continuación, se detallan los principales perfiles involucrados:
+
+
+### 🛠️ Data Engineer
+
+Responsable de diseñar, construir y mantener las infraestructuras de datos necesarias para el análisis. Su trabajo asegura la disponibilidad, calidad y accesibilidad de los datos.
+
+**Responsabilidades:**
+- Integración y recolección de datos desde distintas fuentes (sistemas de ventas, inventarios, ERP).
+- Limpieza, transformación y normalización de los datos.
+- Construcción de pipelines automatizados (ETL/ELT).
+- Gestión de bases de datos y almacenamiento en la nube.
+
+
+### 📊 Data Analyst
+
+Encargado de analizar los datos históricos y generar información útil para la toma de decisiones.
+
+**Responsabilidades:**
+- Análisis exploratorio de datos (EDA).
+- Creación de dashboards e informes interactivos.
+- Identificación de patrones de consumo y variaciones por producto y sucursal.
+- Colaboración en la definición de métricas clave (KPI).
+
+
+### 🤖 Data Scientist
+
+Su foco está en aplicar modelos estadísticos y algoritmos de machine learning para realizar predicciones que mejoren la toma de decisiones.
+
+**Responsabilidades:**
+- Desarrollo de modelos predictivos de demanda.
+- Selección de variables relevantes y validación de modelos.
+- Evaluación del desempeño de los modelos (MSE, RMSE, etc.).
+- Comunicación de resultados con enfoque técnico y estratégico.
+
+
+### 📌 Project Manager
+
+Lidera la planificación y coordinación del proyecto, asegurando el cumplimiento de plazos, objetivos y entregables.
+
+**Responsabilidades:**
+- Gestión del cronograma y recursos.
+- Coordinación entre los diferentes perfiles del equipo.
+- Seguimiento del avance y reporte a stakeholders.
+- Identificación de riesgos y resolución de bloqueos.
+
+
+### 📈 Business Intelligence Analyst
+
+Punto de enlace entre los resultados técnicos y el negocio. Se enfoca en interpretar los datos para generar recomendaciones estratégicas.
+
+**Responsabilidades:**
+- Traducción de hallazgos en acciones de negocio.
+- Diseño de dashboards orientados al usuario final.
+- Análisis de impacto de decisiones basadas en datos.
+- Presentación ejecutiva de resultados a la dirección.
+
+
+🎯 La colaboración entre estos perfiles permite cubrir todas las etapas del proyecto: desde la obtención y limpieza de datos, hasta la entrega de modelos predictivos y reportes visuales útiles para la toma de decisiones estratégicas.
+
+---
+
+
+
+
+
+
