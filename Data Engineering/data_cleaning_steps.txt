@@ -16,3 +16,17 @@
  Size y Classification si no agregan valor)
 
 •PurchaseFINAL12312016
+1-Se cargo la base de datos
+2-se observa la cantidad de datos, total=(2372474, 17)
+3-Se elimina la primer fila que tiene los encabezados
+4-Busco datos Null o na para reemplazar
+5-Encuentro 2 columnas con datos 0, me fijo cuantas filas tienen datos vacios
+6-Como no encontre la informacion faltante, borro estas filas
+7-Me fijo columnas del tipo texto si tienen datos vacios
+8-Encontre que size tiene 3 datos faltantes
+9-Reemplazo los 3 valores con datos de otras filas o por datos de otra tabla
+10-Termino la limpieza, no encuentro mas cambios por hacer.
+
+•SalesFINAL12312016
+1-Se cargo la base de datos
+2-Se observa la cantidad de datos, total=
