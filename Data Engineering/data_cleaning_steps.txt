@@ -1,0 +1,18 @@
+•PurchasePricesDec2017
+1-Se cargo la base de datos
+2-se observa la cantidad de datos, total=(6131, 10)
+3-Se analiza las columnas y tipo de datos que contiene
+4-Se busca datos Null y Na
+5-Se encuentra espacios en las filas, se elimina
+6-Se identifica valores Null o Na
+7-Se Elimina las filas porque tienen demasiados datos faltantes
+8-Se elimina la primera fila que tenia los encabezados
+9-Se encuentra errores en la carga de VendorName, contenia datos acoplados, se reemplaza los valores
+10-Se busca valores 0 o "unknown" en volumen
+11-Se encontraron 3 filas con datos faltantes, se eliminan
+12-Se encuentra datos faltantes en Price de una fila
+13-Se elimina esta fila.
+14-No se encuentra otros cambios por realizar, se procede a seguir con otra tabla (se recomienda borrar
+ Size y Classification si no agregan valor)
+
+•PurchaseFINAL12312016
