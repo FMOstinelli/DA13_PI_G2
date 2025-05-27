@@ -10,7 +10,7 @@
 ### Índice
 1. [Introducción](#Introducción)
 2. [Objetivos](#Objetivos)
-3. [Roles](#roles)
+3. [Roles](##roles-del-proyecto)
 4. [Equipo](#equipo)
 5. [Archivos](#archivos)
 6. [Areas](#areas)
@@ -43,6 +43,3 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 - Construir modelos predictivos para estimar la demanda futura.
 - Calcular el nivel de stock óptimo para minimizar quiebres y sobreinventario.
 - Generar reportes e indicadores visuales que faciliten la toma de decisiones.
-
----
-
