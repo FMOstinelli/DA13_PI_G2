@@ -29,4 +29,51 @@
 
 •SalesFINAL12312016
 1-Se cargo la base de datos
-2-Se observa la cantidad de datos, total=
+2-Se observa la cantidad de datos, total=(6412682, 15)
+3-Analizo las tablas
+4-Encuentro un problema con los datos de vendorname, reemplazo esta columnas
+5-Busco datos nulos, faltantes, duplicados, etc.
+6-Encuentro varias columnas con datos nulos.
+7-Busco las filas que tengan store=0
+8-Elimino 1 fila que tenia dato 0
+9-Encontramos datos vacios en SalesDollars y SalesPrices (24 filas)
+10-Eliminamos estas filas
+11-Remuevo espacios vacios y cambio formato de fechas
+12-Elimino la columna VendorName, ya que ya tenemos el dato vendorid
+13-Termino la limpieza, no encuentro mas cambios por hacer.
+
+•InvoicePurchases12312016
+1-Se cargo la base de datos
+2-Se observa la cantidad de datos, total=(2772, 11)
+3-Hago un analisis de la tabla, veo que la primer fila son los nombres de columna, la Elimino
+4-Observo que hay datos erroneos en Approval, reemplazo estos valores
+5-Encuentro en Approval 93% de datos faltantes, se decide borrar esta columna
+6-Verifico si no hay duplicados
+7-Elimino espacios en vendorname
+8-Cambio formato de fecha en algunas columnas
+9-Termino la limpieza, no encuentro mas cambios por hacer.
+
+
+•BegInvFINAL12312016
+1-Se cargo la base de datos
+2-Se observa la cantidad de datos, total=(206529, 10)
+3-Elimino la fila de encabezados
+4-Verifico si no hay duplicados
+5-Encuentro dos datos faltantes en Price
+6-Los reemplazo con los datos de EndInvFINAL12312016
+7-Busco datos faltantes en los textos
+8-Cambio formato de fecha en algunas columnas
+9-Termino la limpieza, no encuentro mas cambios por hacer.
+
+•EndInvFINAL12312016
+1-Se cargo la base de datos
+2-Se observa la cantidad de datos, total=(224489, 10)
+3-Elimino la fila de encabezados
+4-Verifico si no hay duplicados
+5-Encuentro datos faltantes en city
+6-Reemplazo los datos faltantes por los de BegInvFINAL12312016, relacionando store
+7-Modifico InventoryId, que le faltaba ciudad al codigo
+8-Cambio formato de fecha en algunas columnas
+9-Termino la limpieza, no encuentro mas cambios por hacer.
+
+##Adicional a toda la limpieza, reemplazo los valores faltantes que me faltaban en PurchaseFINAL12312016, utilizando datos de BegInvFINAL12312016 y EndInvFINAL12312016
