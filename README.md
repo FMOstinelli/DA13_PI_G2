@@ -11,12 +11,12 @@
 1. [Introducción](#Introducción)
 2. [Objetivos](#Objetivos)
 3. [Sobre nosotros](#Nosotros)
-4. [Roles](##roles-del-proyecto)
-5. [Equipo](#equipo)
+4. [Roles](#Roles-del-proyecto)
+5. [Equipo](#Equipo)
 6. [Documentación del proyecto](#Documentación-del-proyecto)
 
 
-## 🧾Introducción
+# 🧾Introducción
 
 Este proyecto se desarrolla en el contexto de una empresa de e-commerce especializada en la venta de bebidas, con operaciones en múltiples sucursales. La compañía enfrenta desafíos comunes en la gestión de inventarios, tales como:
 
@@ -30,7 +30,7 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 
 ---
 
-## 🎯Objetivos
+# 🎯Objetivos
 
 **Objetivo general:**
 
@@ -45,8 +45,8 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 - Generar reportes e indicadores visuales que faciliten la toma de decisiones.
 
 ---
-##  🏢 Nosotros
-# 📊 Datvolve  
+#  🏢 Nosotros
+## 📊 Datvolve  
 **_Ayudamos a evolucionar tu negocio_**
 
 ## 🏢 ¿Quiénes somos?
@@ -64,7 +64,7 @@ Ser referentes en el mundo hispanohablante como **la empresa aliada en transform
 
 ---
 
-## 👨‍💻👩‍💻 Roles del Proyecto
+# 👨‍💻👩‍💻 Roles del Proyecto
 
 En este proyecto de análisis y optimización de inventarios mediante técnicas de ciencia de datos, cada rol cumple una función clave en el ciclo de vida del desarrollo. A continuación, se detallan los principales perfiles involucrados:
 
@@ -118,7 +118,7 @@ Punto de enlace entre los resultados técnicos y el negocio. Se enfoca en interp
 
 ---
 
-##  👥 Equipo
+#  👥 Equipo
 
 El desarrollo de este proyecto fue posible gracias al trabajo colaborativo de un equipo multidisciplinario, donde cada integrante asumió un rol específico alineado a sus fortalezas técnicas y analíticas. La combinación de habilidades en ingeniería de datos, análisis, ciencia de datos, inteligencia de negocios y gestión de proyectos permitió abordar el desafío de manera integral, asegurando una solución robusta, basada en datos y enfocada en la toma de decisiones estratégicas.
 
@@ -126,8 +126,7 @@ A continuación, se detallan los roles asignados y sus principales responsabilid
 
 👨 Santiago, Edwin
  
-**Rol:** Data Engineer + Project Manager  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
+**Rol:** Data Engineer + Project Manager  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D35AQFSmer8IpCRtA/profile-framedphoto-shrink_800_800/B4DZbuprtBHEAg-/0/1747760626879?e=1749164400&v=beta&t=5icGjprqRxRwItEBKxSsa0h6f2Yc72BiQji11ksGZKs" alt="Foto de edwin" width="120"/>
 Presentación
@@ -137,7 +136,7 @@ Presentación
 **Rol:** Data Analyst 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
 
-<img src="https://postimg.cc/MMvnP7Pd" alt="Foto de barbara" width="120"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D35AQEA4dcq7uQ-vA/profile-framedphoto-shrink_200_200/B4DZbgbDxrIEAY-/0/1747521912265?e=1749168000&v=beta&t=sOx1TErbfauqrIduyizFjbNu7wgvS1MCm90BuTKK6jc" alt="Foto de barbara" width="120"/>
 Presentación
 
 👩 Arcia Cova, Ducelvis Lolimar
@@ -159,7 +158,7 @@ Hoy combino esa visión estratégica con mi formación técnica para ayudar a eq
 
 ---
 
-##  🗂️ Documentación del proyecto
+#  🗂️ Documentación del proyecto
 
 El repositorio está organizado en carpetas que agrupan los recursos según su funcionalidad dentro del flujo de trabajo. A continuación, se detalla el contenido de cada una:
 
@@ -171,4 +170,4 @@ El repositorio está organizado en carpetas que agrupan los recursos según su f
 
 - `Documentación/` → Se anexaran dentro la propuesta preliminar de trabajo, diagrama de relaciones, mockup y todo documento/archivo que sea pertinente al proyecto y que no encaje en las anteriores 3 carpetas.
 
-- `README/` → Es el documento que se esta leyendo, contiene toda la información relevante del proyecto
+- `README.md` → Es el documento que se esta leyendo, contiene toda la información relevante del proyecto
