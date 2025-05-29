@@ -2,18 +2,18 @@
 ## E-commerce - Inteligencia de Inventario: Del Análisis a la Acción
 
 <p align="center">
-  <img src="https://thelogisticsworld.com/wp-content/uploads/2023/06/mano-femenina-y-un-icono-de-carrito-de-compras-concepto-de-comercio-electronico-828x548.jpg" alt="E-commerce" width="600"/>
+  <img src="http://imgfz.com/i/nREIUOp.png" alt="Datvlve" width="600"/>
 </p>
 
 ------------
 
 ### Índice
-1. [Introducción](#Introducción)
-2. [Objetivos](#Objetivos)
-3. [Sobre nosotros](#Nosotros)
-4. [Roles](#Roles-del-proyecto)
-5. [Equipo](#Equipo)
-6. [Documentación del proyecto](#Documentación-del-proyecto)
+1. [Introducción](#introduccion)
+2. [Objetivos](#objetivos)
+3. [Sobre nosotros](#sobre-nosotros)
+4. [Roles](#roles-del-proyecto)
+5. [Equipo](#equipo)
+6. [Documentación del proyecto](#documentacion-del-proyecto)
 
 
 # 🧾Introducción
