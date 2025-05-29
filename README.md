@@ -10,10 +10,10 @@
 ### Índice
 1. [Introducción](#Introducción)
 2. [Objetivos](#Objetivos)
-3. [Roles](##roles-del-proyecto)
-4. [Equipo](#equipo)
-5. [Archivos](#archivos)
-6. [Areas](#areas)
+3. [Sobre nosotros](#Nosotros)
+4. [Roles](##roles-del-proyecto)
+5. [Equipo](#equipo)
+6. [Documentación del proyecto](#Documentación-del-proyecto)
 
 
 ## 🧾Introducción
@@ -43,6 +43,24 @@ El análisis se apoya en herramientas de analisis de datos, ciencia de datos y v
 - Construir modelos predictivos para estimar la demanda futura.
 - Calcular el nivel de stock óptimo para minimizar quiebres y sobreinventario.
 - Generar reportes e indicadores visuales que faciliten la toma de decisiones.
+
+---
+##  🏢 Nosotros
+# 📊 Datvolve  
+**_Ayudamos a evolucionar tu negocio_**
+
+## 🏢 ¿Quiénes somos?
+
+En **Datvolve**, nos especializamos en transformar datos en decisiones inteligentes. Brindamos soluciones integrales en análisis de información, visualización con tableros interactivos y mejora de bases de datos, permitiendo a nuestros clientes comprender mejor su negocio y tomar decisiones estratégicas basadas en evidencia.
+
+## 🧭 Misión
+
+Nuestra misión es **impulsar la evolución de las organizaciones a través del poder del análisis de datos**, ofreciendo herramientas y servicios que optimicen la toma de decisiones, potencien la eficiencia y generen valor real en los procesos de negocio.
+
+
+## 🌟 Visión
+
+Ser referentes en el mundo hispanohablante como **la empresa aliada en transformación analítica**, acompañando a nuestros clientes en su camino hacia una cultura basada en datos, innovación y mejora continua.
 
 ---
 
@@ -109,25 +127,25 @@ A continuación, se detallan los roles asignados y sus principales responsabilid
 👨 Santiago, Edwin
  
 **Rol:** Data Engineer + Project Manager  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/acalink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
 
-<img src="https://www.example.com/foto-juan.jpg" alt="Foto de edwin" width="120"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D35AQFSmer8IpCRtA/profile-framedphoto-shrink_800_800/B4DZbuprtBHEAg-/0/1747760626879?e=1749164400&v=beta&t=5icGjprqRxRwItEBKxSsa0h6f2Yc72BiQji11ksGZKs" alt="Foto de edwin" width="120"/>
 Presentación
 
 👩 Sanchez, Barbara
 
 **Rol:** Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/acalink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
 
-<img src="https://www.example.com/foto-juan.jpg" alt="Foto de barbara" width="120"/>
+<img src="https://postimg.cc/MMvnP7Pd" alt="Foto de barbara" width="120"/>
 Presentación
 
 👩 Arcia Cova, Ducelvis Lolimar
 
 **Rol:** Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/acalink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
-<img src="https://www.example.com/foto-juan.jpg" alt="Foto de ducelvis" width="120"/>
+<img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
 Presentación
 
 👨 Ostinelli, Franco
@@ -135,5 +153,22 @@ Presentación
 **Rol:** Data Engineer + Project Manager  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/FrancoOstinelli)
 
-<img src="https://www.example.com/foto-juan.jpg" alt="Foto de franco" width="120"/>
-Presentación
+<img src="https://avatars.githubusercontent.com/u/157177657?v=4" alt="Foto de franco" width="120"/>
+Soy estudiante de ingenieria industrial y analista de datos. Descubrí mi pasión por los datos cuando, trabajando como planificador de producción, empecé a automatizar procesos y a mejorar la planificación con herramientas como Power BI y Excel. Ahí vi cómo los datos podían transformar la eficiencia real de una empresa.
+Hoy combino esa visión estratégica con mi formación técnica para ayudar a equipos a tomar mejores decisiones, optimizar procesos y trabajar con propósito, siempre con foco en sostenibilidad, tecnología y mejora continua.
+
+---
+
+##  🗂️ Documentación del proyecto
+
+El repositorio está organizado en carpetas que agrupan los recursos según su funcionalidad dentro del flujo de trabajo. A continuación, se detalla el contenido de cada una:
+
+- `Data Analytics/` → Contiene todo el trabajo realizado en Power BI para crear el tablero de seguimiento del negocio.
+
+- `Data Engineering/` → En esta se encuentra todos los archivos relevantes sobre el armado de las DB, el ETL realizado sobre la información de la compañia y su automatización de carga a la DB
+
+- `Data Science/` → Aqui estan todos los documentos relevantes a el analisis predictivo de la empresa, donde buscaremos adelantarnos a eventos futuros
+
+- `Documentación/` → Se anexaran dentro la propuesta preliminar de trabajo, diagrama de relaciones, mockup y todo documento/archivo que sea pertinente al proyecto y que no encaje en las anteriores 3 carpetas.
+
+- `README/` → Es el documento que se esta leyendo, contiene toda la información relevante del proyecto
