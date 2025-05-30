@@ -124,12 +124,14 @@ El desarrollo de este proyecto fue posible gracias al trabajo colaborativo de un
 
 A continuación, se detallan los roles asignados y sus principales responsabilidades dentro del proyecto.
 
+
 👨 Santiago, Edwin
  
 **Rol:** Data Engineer + Project Manager  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D35AQFSmer8IpCRtA/profile-framedphoto-shrink_800_800/B4DZbuprtBHEAg-/0/1747760626879?e=1749164400&v=beta&t=5icGjprqRxRwItEBKxSsa0h6f2Yc72BiQji11ksGZKs" alt="Foto de edwin" width="120"/>
 Presentación
+
 
 👩 Sanchez, Barbara
 
@@ -139,6 +141,7 @@ Presentación
 <img src="https://media.licdn.com/dms/image/v2/D4D35AQEA4dcq7uQ-vA/profile-framedphoto-shrink_200_200/B4DZbgbDxrIEAY-/0/1747521912265?e=1749168000&v=beta&t=sOx1TErbfauqrIduyizFjbNu7wgvS1MCm90BuTKK6jc" alt="Foto de barbara" width="120"/>
 Presentación
 
+
 👩 Arcia Cova, Ducelvis Lolimar
 
 **Rol:** Data Analyst 
@@ -147,13 +150,13 @@ Presentación
 <img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
 Presentación
 
+
 👨 Ostinelli, Franco
  
-**Rol:** Data Engineer + Project Manager  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/FrancoOstinelli)
+**Rol:** Data Engineer + Project Manager  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/FrancoOstinelli)
 
 <img src="https://avatars.githubusercontent.com/u/157177657?v=4" alt="Foto de franco" width="120"/>
-Soy estudiante de ingenieria industrial y analista de datos. Descubrí mi pasión por los datos cuando, trabajando como planificador de producción, empecé a automatizar procesos y a mejorar la planificación con herramientas como Power BI y Excel. Ahí vi cómo los datos podían transformar la eficiencia real de una empresa.
+Hola! Acá Franco, soy estudiante de ingenieria industrial y analista de datos. Descubrí mi pasión por los datos cuando, trabajando como planificador de producción, empecé a automatizar procesos y a mejorar la planificación con herramientas como Power BI y Excel. Ahí vi cómo los datos podían transformar la eficiencia real de una empresa.
 Hoy combino esa visión estratégica con mi formación técnica para ayudar a equipos a tomar mejores decisiones, optimizar procesos y trabajar con propósito, siempre con foco en sostenibilidad, tecnología y mejora continua.
 
 ---
