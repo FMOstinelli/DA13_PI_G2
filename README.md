@@ -149,7 +149,7 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 **Rol:** Data Analyst 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
-<img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
+<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Ducelvis.png" alt="Foto de ducelvis" width="120"/>
 Hola, Soy Ducelvis. Técnico en Relaciones Industriales, con más de 10 años de experiencia trabajando en el área Administrativa. En estos años siempre he trabajado con datos, pero hace un tiempo decidí enfocarme en aprender las herramientas que ayuden a impulsar el análisis de esos datos y llevarlo a otro nivel. El poder tener datos crudos, transformarlos y aportar información valiosa a las empresas es mi objetivo. 
 
 👨 Ostinelli, Franco
