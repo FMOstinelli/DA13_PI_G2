@@ -158,7 +158,7 @@ Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights vali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
 <img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Ducelvis.png" alt="Foto de ducelvis" width="120"/>
-Hola, Soy Ducelvis. Técnico en Relaciones Industriales, con más de 10 años de experiencia trabajando en el área Administrativa. En estos años siempre he trabajado con datos, pero hace un tiempo decidí enfocarme en aprender las herramientas que ayuden a impulsar el análisis de esos datos y llevarlo a otro nivel. El poder tener datos crudos, transformarlos y aportar información valiosa a las empresas es mi objetivo. 
+Hola, Soy Ducelvis. Técnico en Relaciones Industriales, con más de 10 años de experiencia trabajando en el área Administrativa. En estos años siempre he trabajado con datos, pero hace un tiempo decidí enfocarme en aprender las herramientas que ayuden a impulsar el análisis de esos datos como Python, Power BI y SQL y llevarlo a otro nivel. El poder tener datos crudos, transformarlos y aportar información valiosa a las empresas es mi objetivo. 
 
 
 
