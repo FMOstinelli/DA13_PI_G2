@@ -137,16 +137,20 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 
 
 
+
 👩 Sánchez, Bárbara
 
 **Rol:** Data Analyst + BI analyst  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-sanchez3)
 
 <img src="https://avatars.githubusercontent.com/u/129069840?v=4" alt="Foto de Bárbara" width="120"/>
+
 ¡Hola! Soy Barbara, analista de datos en formación con una trayectoria diversa en entornos laborales y culturales.
 Lideré equipos, gestioné operaciones y desarrollé una fuerte capacidad de adaptación, comunicación y pensamiento estratégico.
 Estudié Diseño y Comunicación Visual, y hoy aplico ese enfoque analítico y visual al trabajo con datos.
 Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights valiosos y generar impacto real.
+
+
 
 
 👩 Arcia Cova, Ducelvis Lolimar
@@ -155,6 +159,8 @@ Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights vali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
 <img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
+
+
 
 
 👨 Ostinelli, Franco
