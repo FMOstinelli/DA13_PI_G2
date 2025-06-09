@@ -136,12 +136,17 @@ Hola, soy Edwin! Data analyst con un bakcground en full stack, empece estudiando
 Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi lograr diseñar, construir y mantener sistemas de datos, asegurando que los datos sean útiles y valiosos para otros, al igual que siempre busco lograr la automatizacion y sostenibilidad de los procesos.
 
 
-👩 Sanchez, Barbara
 
-**Rol:** Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
+👩 Sánchez, Bárbara
 
-<img src="https://media.licdn.com/dms/image/v2/D4D35AQEA4dcq7uQ-vA/profile-framedphoto-shrink_200_200/B4DZbgbDxrIEAY-/0/1747521912265?e=1749168000&v=beta&t=sOx1TErbfauqrIduyizFjbNu7wgvS1MCm90BuTKK6jc" alt="Foto de barbara" width="120"/>
+**Rol:** Data Analyst + BI analyst  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-sanchez3)
+
+<img src="https://avatars.githubusercontent.com/u/129069840?v=4" alt="Foto de Bárbara" width="120"/>
+¡Hola! Soy Barbara, analista de datos en formación con una trayectoria diversa en entornos laborales y culturales.
+Lideré equipos, gestioné operaciones y desarrollé una fuerte capacidad de adaptación, comunicación y pensamiento estratégico.
+Estudié Diseño y Comunicación Visual, y hoy aplico ese enfoque analítico y visual al trabajo con datos.
+Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights valiosos y generar impacto real.
 
 
 👩 Arcia Cova, Ducelvis Lolimar
