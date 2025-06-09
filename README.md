@@ -136,12 +136,20 @@ Hola, soy Edwin! Data analyst con un bakcground en full stack, empece estudiando
 Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi lograr diseñar, construir y mantener sistemas de datos, asegurando que los datos sean útiles y valiosos para otros, al igual que siempre busco lograr la automatizacion y sostenibilidad de los procesos.
 
 
-👩 Sanchez, Barbara
 
-**Rol:** Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
 
-<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Barbara.JPG" alt="Foto de barbara" width="120"/>
+👩 Sánchez, Bárbara
+
+**Rol:** Data Analyst + BI analyst  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-sanchez3)
+
+<img src="https://avatars.githubusercontent.com/u/129069840?v=4" alt="Foto de Bárbara" width="120"/>
+
+¡Hola! Soy Barbara, analista de datos en formación con una trayectoria diversa en entornos laborales y culturales.  
+Lideré equipos, gestioné operaciones y desarrollé una fuerte capacidad de adaptación, comunicación y pensamiento estratégico.  
+Estudié Diseño y Comunicación Visual, y hoy aplico ese enfoque analítico y visual al trabajo con datos.  
+Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights valiosos y generar impacto real.
+
 
 
 👩 Arcia Cova, Ducelvis Lolimar
@@ -151,6 +159,8 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 
 <img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Ducelvis.png" alt="Foto de ducelvis" width="120"/>
 Hola, Soy Ducelvis. Técnico en Relaciones Industriales, con más de 10 años de experiencia trabajando en el área Administrativa. En estos años siempre he trabajado con datos, pero hace un tiempo decidí enfocarme en aprender las herramientas que ayuden a impulsar el análisis de esos datos y llevarlo a otro nivel. El poder tener datos crudos, transformarlos y aportar información valiosa a las empresas es mi objetivo. 
+
+
 
 👨 Ostinelli, Franco
  
