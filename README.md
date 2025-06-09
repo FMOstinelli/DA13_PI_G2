@@ -13,7 +13,9 @@
 3. [Sobre nosotros](#sobre-nosotros)
 4. [Roles](#roles-del-proyecto)
 5. [Equipo](#equipo)
-6. [Documentación del proyecto](#documentacion-del-proyecto)
+6. [Informe de Recomendaciones Estratégicas de Negocio](#Informe-de-Recomendaciones-Estratégicas-de-Negocio)
+7. [Documentación del proyecto](#documentacion-del-proyecto)
+
 
 
 # 🧾Introducción
@@ -140,7 +142,6 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D35AQEA4dcq7uQ-vA/profile-framedphoto-shrink_200_200/B4DZbgbDxrIEAY-/0/1747521912265?e=1749168000&v=beta&t=sOx1TErbfauqrIduyizFjbNu7wgvS1MCm90BuTKK6jc" alt="Foto de barbara" width="120"/>
-Presentación
 
 
 👩 Arcia Cova, Ducelvis Lolimar
@@ -149,7 +150,6 @@ Presentación
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
 <img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
-Presentación
 
 
 👨 Ostinelli, Franco
@@ -159,6 +159,95 @@ Presentación
 <img src="https://avatars.githubusercontent.com/u/157177657?v=4" alt="Foto de franco" width="120"/>
 Hola! Acá Franco, soy estudiante de ingenieria industrial y analista de datos. Descubrí mi pasión por los datos cuando, trabajando como planificador de producción, empecé a automatizar procesos y a mejorar la planificación con herramientas como Power BI y Excel. Ahí vi cómo los datos podían transformar la eficiencia real de una empresa.
 Hoy combino esa visión estratégica con mi formación técnica para ayudar a equipos a tomar mejores decisiones, optimizar procesos y trabajar con propósito, siempre con foco en sostenibilidad, tecnología y mejora continua.
+
+---
+# 📈 Informe de Recomendaciones Estratégicas de Negocio
+
+## 1. Predicciones con Prophet
+
+### Hallazgos:
+- Demanda con **estacionalidad clara**, picos en **verano** y subpicos en **invierno**.
+- Tendencia creciente, aunque **moderada**.
+
+### Recomendaciones:
+- Incrementar stock desde junio hasta septiembre (+30%).
+- Planificación de campañas estacionales (ej. Verano).
+- Asegurar aprovisionamiento anticipado desde septiembre.
+
+---
+
+## 2. Clasificación ABC de productos
+
+### Hallazgos:
+- Productos **A**: 20% del catálogo, >80% de ingresos.
+- Productos **B**: 30% del catálogo, >15% de ingresos. 
+- Productos **C**: 50% del catálogo, <5% de ingresos.
+
+### Recomendaciones:
+- Priorizar productos A en gestión, visibilidad y stock.
+- Analizar y reducir inventario de productos C sin rotación.
+- Implementar **cross-selling** entre productos A con B y C.
+
+---
+
+## 3. Depósitos Estratégicos
+
+### Evaluación:
+- Tiempos de entrega elevados en zonas clave.
+
+### Recomendaciones:
+- Abrir centros logísticos en:
+  - **Reino Unido**: Manchester, Londres y Edinburgo.
+
+### Objetivo:
+-Reducción de tiempos y costos logísticos
+-Mayor disponibilidad de productos en tiendas
+-Optimización de inventarios por cercanía
+-Menor huella de carbono
+
+## 4. Estrategias por país
+
+### Italia – Penetración de mercado
+-Oportunidad de crecimiento en alza
+-Crecimiento sostenido en el consumo de bebidas alcohólicas Ready To Drink (RTD).
+-Aumento de consumidores activos y digitalización del consumo.
+-Alta valorización de productos artesanales.
+
+Recomendaciones:
+-Campañas orientadas al valor cultural:
+-Reforzar el storytelling del producto para alinearse con el estilo de vida italiano y su aprecio por la tradición y la calidad.
+-Penetración digital y alianzas locales:
+-Colaborar con plataformas como Tannico o Callmewine y aprovechar el crecimiento de pagos digitales.
+
+Distribución optimizada:
+-Integrar centros logísticos en zonas norte de Italia (Milán, Bérgamo, Bolonia) para facilitar distribución y bajar huella de carbono.
+
+### Estados Unidos – Desarrollo de mercado
+-Representa el 32% de las ventas globales del sector.
+-En 2016 generó más de 900 millones de USD.
+-Alta demanda de productos premium y artesanales.
+-Picos estacionales en abril, julio y diciembre (según Prophet).
+
+Recomendaciones:
+-Foco en estados de alta demanda:
+  Lanzar campañas de posicionamiento digital y alianzas estratégicas en California, Nueva York, Florida y Texas.
+-Alianzas con marketplaces locales:
+  Integrarse con plataformas como Drizly, Instacart y Amazon Wine para aumentar alcance.
+
+Logística estratégica:
+Establecer centros de distribución en zonas con alta densidad de consumo para reducir tiempos y costos logísticos.
+
+---
+
+## 5. Recomendaciones generales
+
+| Área         | Acción recomendada                                                                 |
+|--------------|--------------------------------------------------------------------------------------|
+| Inventario   | Automatizar reabastecimiento según demanda proyectada para productos A.            |
+| Comercial    | Focalizar marketing en productos de alta rotación y margen.                        |
+| Logística    | Disminuir tiempos con depósitos regionales y pronóstico estacional.                |
+| Expansión    | En Italia y EE.UU. para crecer y diversificar.                                     |
+
 
 ---
 
@@ -175,3 +264,5 @@ El repositorio está organizado en carpetas que agrupan los recursos según su f
 - `Documentación/` → Se anexaran dentro la propuesta preliminar de trabajo, diagrama de relaciones, mockup y todo documento/archivo que sea pertinente al proyecto y que no encaje en las anteriores 3 carpetas.
 
 - `README.md` → Es el documento que se esta leyendo, contiene toda la información relevante del proyecto
+
+
