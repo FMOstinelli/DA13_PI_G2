@@ -131,7 +131,7 @@ A continuación, se detallan los roles asignados y sus principales responsabilid
  
 **Rol:** Data Engineer + Project Manager  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D35AQFSmer8IpCRtA/profile-framedphoto-shrink_800_800/B4DZbuprtBHEAg-/0/1747760626879?e=1749164400&v=beta&t=5icGjprqRxRwItEBKxSsa0h6f2Yc72BiQji11ksGZKs" alt="Foto de edwin" width="120"/>
+<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Edwin.jpeg" alt="Foto de edwin" width="120"/>
 Hola, soy Edwin! Data analyst con un bakcground en full stack, empece estudiando full stack para darle un giro a mi carrera profesional, a mitad de mis estudios empezo a llamarme la atencion los datos y asi empece a profundizar mas en este mundo, me intereso mas que todo el poder de contar una historia y ver como esto tiene un cambio, como algo tan pequeño como un dato puede influir tanto, siempre busco la excelencia y seguir mejorando mis habilidades para siempre dar lo mejor de mi. <br>
 Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi lograr diseñar, construir y mantener sistemas de datos, asegurando que los datos sean útiles y valiosos para otros, al igual que siempre busco lograr la automatizacion y sostenibilidad de los procesos.
 
@@ -145,11 +145,10 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 
 <img src="https://avatars.githubusercontent.com/u/129069840?v=4" alt="Foto de Bárbara" width="120"/>
 
-¡Hola! Soy Barbara, analista de datos en formación con una trayectoria diversa en entornos laborales y culturales.
-Lideré equipos, gestioné operaciones y desarrollé una fuerte capacidad de adaptación, comunicación y pensamiento estratégico.
-Estudié Diseño y Comunicación Visual, y hoy aplico ese enfoque analítico y visual al trabajo con datos.
+¡Hola! Soy Barbara, analista de datos en formación con una trayectoria diversa en entornos laborales y culturales.  
+Lideré equipos, gestioné operaciones y desarrollé una fuerte capacidad de adaptación, comunicación y pensamiento estratégico.  
+Estudié Diseño y Comunicación Visual, y hoy aplico ese enfoque analítico y visual al trabajo con datos.  
 Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights valiosos y generar impacto real.
-
 
 
 
@@ -158,8 +157,8 @@ Uso herramientas como Power BI, SQL, Excel y Python para encontrar insights vali
 **Rol:** Data Analyst 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ducelvis-arcia-cova/)
 
-<img src="https://media.licdn.com/dms/image/v2/D5635AQG_5iac-ZRIrw/profile-framedphoto-shrink_200_200/B56ZbrTBtcH0AY-/0/1747704356140?e=1749164400&v=beta&t=J4CnwgwsW-FuGDPcKmFanLfR8TaFTZq6_I9Ai6Euz3Y" alt="Foto de ducelvis" width="120"/>
-
+<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Ducelvis.png" alt="Foto de ducelvis" width="120"/>
+Hola, Soy Ducelvis. Técnico en Relaciones Industriales, con más de 10 años de experiencia trabajando en el área Administrativa. En estos años siempre he trabajado con datos, pero hace un tiempo decidí enfocarme en aprender las herramientas que ayuden a impulsar el análisis de esos datos y llevarlo a otro nivel. El poder tener datos crudos, transformarlos y aportar información valiosa a las empresas es mi objetivo. 
 
 
 
