@@ -141,7 +141,7 @@ Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi 
 **Rol:** Data Analyst 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/barbara-sanchez3)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D35AQEA4dcq7uQ-vA/profile-framedphoto-shrink_200_200/B4DZbgbDxrIEAY-/0/1747521912265?e=1749168000&v=beta&t=sOx1TErbfauqrIduyizFjbNu7wgvS1MCm90BuTKK6jc" alt="Foto de barbara" width="120"/>
+<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Barbara.JPG" alt="Foto de barbara" width="120"/>
 
 
 👩 Arcia Cova, Ducelvis Lolimar
