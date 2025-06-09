@@ -166,7 +166,7 @@ Hoy combino esa visión estratégica con mi formación técnica para ayudar a eq
 ## 1. Predicciones con Prophet
 
 ### Hallazgos:
-- Demanda con **estacionalidad clara**, picos en **verano** y subpicos en **invierno**.
+- Demanda con **estacionalidad clara**, picos en **verano y invierno** y subpicos en **primavera y otoño**.
 - Tendencia creciente, aunque **moderada**.
 
 ### Recomendaciones:
@@ -174,7 +174,6 @@ Hoy combino esa visión estratégica con mi formación técnica para ayudar a eq
 - Planificación de campañas estacionales (ej. Verano).
 - Asegurar aprovisionamiento anticipado desde septiembre.
 
----
 
 ## 2. Clasificación ABC de productos
 
@@ -188,7 +187,6 @@ Hoy combino esa visión estratégica con mi formación técnica para ayudar a eq
 - Analizar y reducir inventario de productos C sin rotación.
 - Implementar **cross-selling** entre productos A con B y C.
 
----
 
 ## 3. Depósitos Estratégicos
 
@@ -237,7 +235,6 @@ Recomendaciones:
 Logística estratégica:
 Establecer centros de distribución en zonas con alta densidad de consumo para reducir tiempos y costos logísticos.
 
----
 
 ## 5. Recomendaciones generales
 
