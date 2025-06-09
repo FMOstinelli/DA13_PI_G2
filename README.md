@@ -131,7 +131,7 @@ A continuación, se detallan los roles asignados y sus principales responsabilid
  
 **Rol:** Data Engineer + Project Manager  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edwin-santiago-058b63334/)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D35AQFSmer8IpCRtA/profile-framedphoto-shrink_800_800/B4DZbuprtBHEAg-/0/1747760626879?e=1749164400&v=beta&t=5icGjprqRxRwItEBKxSsa0h6f2Yc72BiQji11ksGZKs" alt="Foto de edwin" width="120"/>
+<img src="https://github.com/FMOstinelli/DA13_PI_G2/blob/main/Documentaci%C3%B3n/Foto_Edwin.jpeg" alt="Foto de edwin" width="120"/>
 Hola, soy Edwin! Data analyst con un bakcground en full stack, empece estudiando full stack para darle un giro a mi carrera profesional, a mitad de mis estudios empezo a llamarme la atencion los datos y asi empece a profundizar mas en este mundo, me intereso mas que todo el poder de contar una historia y ver como esto tiene un cambio, como algo tan pequeño como un dato puede influir tanto, siempre busco la excelencia y seguir mejorando mis habilidades para siempre dar lo mejor de mi. <br>
 Hoy en dia he buscado mas implementar el trabajo como un data engineer para asi lograr diseñar, construir y mantener sistemas de datos, asegurando que los datos sean útiles y valiosos para otros, al igual que siempre busco lograr la automatizacion y sostenibilidad de los procesos.
 
